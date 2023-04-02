@@ -9,6 +9,11 @@ wget https://raw.githubusercontent.com/Mrkitty2222/proxmoxscript/main/wireproxmo
 # Make the script executable
 chmod +x wireproxmox.sh
 
+# Open the script file using nano:
+nano wireproxmox.sh
+
+# Edit it to fit your server's information
+
 # Execute the script
 ./wireproxmox.sh
 
