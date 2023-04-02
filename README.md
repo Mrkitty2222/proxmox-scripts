@@ -1,4 +1,4 @@
-# proxmoxscript
+# proxmox-scripts
 
 # Log in to your Proxmox server as root
 ssh root@your-proxmox-server-ip-address
